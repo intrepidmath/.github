@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Welcome to IntrepidMaths
+Welcome to IntrepidMaths, a competition mathematics organization
+
+Leaders: intrepidbird + igafig (discord names)
 
 <!--
 
