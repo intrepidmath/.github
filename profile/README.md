@@ -2,7 +2,9 @@
 
 Welcome to IntrepidMaths, a competition mathematics organization
 
-We developed https://github.com/intrepidbird/gauss
+We developed [Gauss Maths Bot](https://github.com/intrepidbird/gauss) and [Psyduck Maths AI](https://github.com/intrepidbird/psyduck)
+
+🥉 3rd Place middle school team in Lexington Informatics Tournament (out of 1000+ contestants, teams of 3)
 
 <!--
 
