@@ -6,6 +6,10 @@ We developed [Gauss Maths Bot](https://github.com/intrepidbird/gauss) and [Psydu
 
 🥉 3rd Place middle school team in Lexington Informatics Tournament (out of 1000+ contestants, teams of 3)
 
+Captain: Alex Sheng (intrepidbird / NJR65_Alex)
+
+Vice Captain: Jonathan Yang (regretslifedecision / igafig)
+
 <!--
 
 **Here are some ideas to get you started:**
