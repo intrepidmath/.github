@@ -2,7 +2,7 @@
 
 Welcome to IntrepidMaths, a competition mathematics organization
 
-We developed https://github.com/intrepidbird.gauss
+We developed https://github.com/intrepidbird/gauss
 
 <!--
 
