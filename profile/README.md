@@ -2,7 +2,7 @@
 
 Welcome to IntrepidMaths, a competition mathematics organization
 
-Leaders: intrepidbird + igafig (discord names)
+We developed https://github.com/intrepidbird.gauss
 
 <!--
 
