@@ -10,6 +10,8 @@ Captain: Alex Sheng (intrepidbird / NJR65_Alex)
 
 Vice Captain: Jonathan Yang (regretslifedecision / igafig)
 
+Profile credit: Kurzgesagt
+
 <!--
 
 **Here are some ideas to get you started:**
