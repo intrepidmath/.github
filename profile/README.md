@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👑 IntrepidMaths
 
-Welcome to IntrepidMaths, a competition mathematics organization
+Welcome to IntrepidMaths, a Mathematics Software company.
 
-We developed [Gauss Maths Bot](https://github.com/intrepidbird/gauss) and [Psyduck Maths AI](https://github.com/intrepidbird/psyduck)
+Board of Directors:
 
-🥉 3rd Place middle school team in Lexington Informatics Tournament (out of 1000+ contestants, teams of 3)
+IntrepidBird (CEO and Head Board), MalstronNitro (COO and Head Board), FoxJava, 8Bit8Ball, and pointySphere
 
-Captain: Alex Sheng (intrepidbird / NJR65_Alex)
+-----------------------
 
-Vice Captain: Jonathan Yang (regretslifedecision / igafig)
+IntrepidMaths Maths Competition Team Leadership Roster:
 
-Profile credit: Kurzgesagt
+IntrepidBird (Captain) | MalstromNitro (Alternate Captain) | FoxJava (Alternate Captain)
 
 <!--
 
