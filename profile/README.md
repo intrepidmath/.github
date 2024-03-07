@@ -12,7 +12,7 @@ IntrepidMaths is a software company and summer mathematics competition team base
 
 Board of Directors:
 
-**IntrepidBird** (CEO and Head Board), **MalstromNitro** (COO and Head Board), FoxJava, 8Bit8Ball, and pointySphere
+**IntrepidBird** (CEO and Head Board), **MalstromNitro** (COO and Head Board), FoxJava, 8Bit8Ball, pointySphere, and Joshua Wei (Alternate)
 
 -----------------------
 
