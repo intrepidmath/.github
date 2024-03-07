@@ -1,16 +1,27 @@
 ## 🏅 IntrepidMaths
 
-Welcome to IntrepidMaths, a Mathematics Software company.
+### Welcome to IntrepidMaths, a Mathematics Software company.
+
+-----------------------
+
+About IntrepidMaths:
+
+IntrepidMaths is a software company and summer mathematics competition team based in New Jersey and California. We explore the deep-ends and the light sides of mathematics, while using our discoveries and passion to write quality software, which is uploaded on GitHub and other hosting services for free. We are all volunteers, and the only thing that keeps us motivated is true passion and interest in math and coding. IntrepidMaths is a proud IntrepidBird Organization affliate.
+
+-----------------------
 
 Board of Directors:
 
-IntrepidBird (CEO and Head Board), MalstronNitro (COO and Head Board), FoxJava, 8Bit8Ball, and pointySphere
+**IntrepidBird** (CEO and Head Board), **MalstromNitro** (COO and Head Board), FoxJava, 8Bit8Ball, and pointySphere
 
 -----------------------
 
 IntrepidMaths Maths Competition Team Leadership Roster:
 
-IntrepidBird (Captain) | MalstromNitro (Alternate Captain) | FoxJava (Alternate Captain)
+**IntrepidBird** (Captain) | MalstromNitro (Alternate Captain) | FoxJava (Alternate Captain)
+
+
+
 
 <!--
 
