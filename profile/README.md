@@ -1,6 +1,6 @@
 ## 🏅 IntrepidMaths
 
-### Welcome to IntrepidMaths, a Mathematics Software company.
+### Welcome to IntrepidMaths, a Mathematics and Computer Science Organization.
 
 -----------------------
 
