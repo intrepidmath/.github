@@ -1,12 +1,12 @@
-## 🏅 IntrepidMaths
+## 🏅 IntrepidMath
 
-### Welcome to IntrepidMaths, a Mathematics and Computer Science Organization.
+### Welcome to IntrepidMath, a Mathematics and Computer Science Organization.
 
 -----------------------
 
-About IntrepidMaths:
+About IntrepidMath:
 
-IntrepidMaths is a software team and summer mathematics competition team based in New Jersey and California. We explore the deep-ends and the light sides of mathematics, while using our discoveries and passion to write quality software, which is uploaded on GitHub and other hosting services for free. We are all students, motivated by true passion and interest in math and coding. IntrepidMaths is a proud IntrepidBird Organization affliate.
+IntrepidMath is a software team and summer mathematics competition team based in New Jersey and California. We explore the deep-ends and the light sides of mathematics, while using our discoveries and passion to write quality software, which is uploaded on GitHub and other hosting services for free. We are all students, motivated by true passion and interest in math and coding. IntrepidMath is a proud IntrepidBird Organization affliate.
 
 -----------------------
 
